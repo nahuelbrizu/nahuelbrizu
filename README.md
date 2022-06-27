@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @nahuelbrizu
-- 👀 I’m interested in the Back-end
-- 🌱 I’m currently learning ruby on rails and mui...
+- 👋 Hi Everyone, I am Nahuel Brizuela from Buenos Aires, Argentina.
+I am a self-taught programmer I have my interest set on continuing improving my skills, constantly updating my knowledg in the Programming field
